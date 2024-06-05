@@ -2,3 +2,4 @@
 
 Carlos Henrique
 Iago Santos
+Vitor Pires
