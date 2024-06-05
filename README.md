@@ -1,5 +1,1 @@
-# teste main
-.Adicionando uma linha
-Adicionando outra linha
-..
-
+# Relação de alunos ResTIC12
