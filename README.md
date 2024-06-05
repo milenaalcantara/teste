@@ -1,4 +1,4 @@
 # Relação de alunos ResTIC12
 
-Pedro Henrique
+Pedo Henrique
 Carlos Henrique
