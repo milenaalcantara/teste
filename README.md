@@ -1,4 +1,4 @@
 # Relação de alunos ResTIC12
 
-Carlos Henrique
-2 - Iago Santos - iagovreal@gmail.com
+Carlos Henrique, email = krlos.henrique98@gmail.com
+Iago Santos - iagovreal@gmail.com
